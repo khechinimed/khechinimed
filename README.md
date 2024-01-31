@@ -26,8 +26,7 @@ avec solide expérience en conception d'applications web et en pratique du DevOp
 
 ### 📫  Comment me contacter :
 [<img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:khechinibakr20@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khechinimed/)
-<>[<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/khechinimedd/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khechinimed/) 
 
 
 > So come on, pull up a virtual chair, and let's see what kind of trouble we can get into together.<br>
