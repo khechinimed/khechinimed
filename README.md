@@ -20,7 +20,7 @@ avec solide expérience en conception d'applications web et en pratique du DevOp
 
 ### 💻  Langages et outils : 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,react,redux,gatsby,jquery,nodejs,php,wordpress,symfony,laravel,mysql,postgres,mongodb,redis,firebase,postman,docker,kubernetes,gcp,aws,git,github,gitlab,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,vue,vuex,react,redux,gatsby,nodejs,php,wordpress,symfony,laravel,mysql,postgres,mongodb,redis,firebase,postman,docker,kubernetes,gcp,aws,git,github,gitlab,linux,windows,powershell,dotnet, )](https://skillicons.dev)
 <br>
 <br>
 
